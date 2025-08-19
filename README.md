@@ -22,7 +22,7 @@ the following project use the STM32F769 discovery board
 
 # Software
 
-* EWARM 9.5
+* EWARM 9.3
 
 # Contact
 
